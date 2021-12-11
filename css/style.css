@@ -151,11 +151,24 @@
     text-align: justify;
     padding: 0 1 rem;
     position: 1;
+    transition: all 2s;
+
+}
+
+.linksDeLasPaginasDeMiLista:hover {
+
+ color:#BA181B
 
 }
 
 .logo {
     max-width: 100%;
+    transition:all 3s;
+
+}
+
+.logo:hover { background-color: #BA181B;
+                max-width: 50%;
 
 }
 
